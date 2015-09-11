@@ -104,7 +104,7 @@ bool cKalmanSystem::upDateState(VectorXd z_new)
 		//   Predicted state estimate
 		MatrixXd x_pre = A*x + B*u;
 		//   Predicted covariance estimate
-		MatrixXd P_pre = A*P*A.inverse() + Q;
+		MatrixXd P_pre = A*P*A.transpose() + Q;
 
 		//~~~~~~~~~~~~~~~~~~~~~~~
 

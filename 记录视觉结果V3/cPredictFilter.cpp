@@ -106,7 +106,7 @@ VectorXf cPredictFilter::predict_DT(VectorXf S_in, double dT, MatrixXf* pA_DT, M
 		dt = dt + Tc;
 		A_DT = A*A_DT;
 
-		//Q = A_DT*Q*A_DT.inverse() + q;  
+		//Q = A_DT*Q*A_DT.transpose() + q;  
 		Q = Q + q;//这里的处理是为了简化计算，节省时间
 	}
 	*pA_DT = A_DT;
@@ -178,7 +178,7 @@ bool cPredictFilter::filterA(VectorXf S_in, double t_in)
 		//   Predicted state estimate
 		VectorXf S_pre = predict_DT(S, dT, &A_DT, &Q_DT); //
 		//   Predicted covariance estimate
-		MatrixXf P_pre = A_DT*P*A_DT.inverse() + Q_DT;
+		MatrixXf P_pre = A_DT*P*A_DT.transpose() + Q_DT;
 
 		//~~~~~~~~~~~~~~~~~~~~~~~
 

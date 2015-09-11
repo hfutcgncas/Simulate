@@ -166,10 +166,10 @@ void main()
 			VectorXf S_out = PredictFilter.predict_hit(S_in, 2); //实验表明，新程序的预测更准确
 #endif
 			t_2  = SystemClock.now();
-			//hitPoint.t -= (t_2 - t_0)/1000; //减去运算所耗时间。  为0.1ms级
+//			hitPoint.t -= (t_2 - t_0)/1000; //减去运算所耗时间。  为0.1ms级
 
 
-			cout << S_out(1) << endl;
+			cout << (t_2 - t_0) / 1000 << endl;
 
             #pragma endregion
 			//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
