@@ -1,0 +1,134 @@
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.exe.config
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.exe
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.pdb
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\MainWindow.g.cs
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\App.g.cs
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.cache
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.lref
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\MainWindow.baml
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.g.resources
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.Properties.Resources.resources
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csproj.GenerateResource.Cache
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.exe
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.pdb
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.g.cs
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+e:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.baml
+E:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\Interop.PCOMMSERVERLib.dll
+E:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csproj.ResolveComReference.cache
+E:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\users\dell\documents\visual studio 14\Projects\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\bin\Debug\TableTennisV3.exe.config
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.csproj.ResolveComReference.cache
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.exe
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.pdb
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.g.cs
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\App.g.cs
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.cache
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.lref
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\bin\Debug\TableTennisV3.exe
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\bin\Debug\TableTennisV3.pdb
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\MainWindow.baml
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.baml
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.g.resources
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.csproj.GenerateResource.Cache
+D:\Users\Think\桌面\TableTennis\TableTennisV3\bin\Debug\TableTennisV3.exe.config
+D:\Users\Think\桌面\TableTennis\TableTennisV3\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Think\桌面\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.csproj.ResolveComReference.cache
+D:\Users\Think\桌面\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.exe
+D:\Users\Think\桌面\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.pdb
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennis\TableTennisV3\bin\Debug\TableTennisV3.exe.config
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennis\TableTennisV3\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.csproj.ResolveComReference.cache
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.exe
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennis\TableTennisV3\obj\Debug\TableTennisV3.pdb
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.exe.config
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csproj.ResolveComReference.cache
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.exe
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.pdb
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.exe
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.pdb
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csprojResolveAssemblyReference.cache
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\MainWindow.g.cs
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.g.cs
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\App.g.cs
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.cache
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.lref
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\MainWindow.baml
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.baml
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.g.resources
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.Properties.Resources.resources
+D:\Users\Think\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.exe.config
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.exe
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.pdb
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.exe
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.pdb
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.g.cs
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.cache
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.lref
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.baml
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.g.resources
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.Properties.Resources.resources
+C:\Users\DELL\Desktop\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.exe.config
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csproj.ResolveComReference.cache
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.exe
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.pdb
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.exe
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.pdb
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.g.cs
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\App.g.cs
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.cache
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.lref
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\MainWindow.baml
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.baml
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.g.resources
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\VisionView.g.cs
+C:\Users\DELL\Documents\GitHub\Robot_cln\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\VisionView.baml
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.exe
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.exe.config
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\bin\Debug\TableTennisV3.pdb
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.g.cs
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\VisionView.g.cs
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.cache
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3_MarkupCompile.lref
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\BatSettingView.baml
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\PresentationLayer\Views\VisionView.baml
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.g.resources
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.Properties.Resources.resources
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.exe
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.pdb
+C:\Users\DELL\Desktop\Simlator\TableTennisV3\TableTennisV3\obj\Debug\TableTennisV3.csprojResolveAssemblyReference.cache

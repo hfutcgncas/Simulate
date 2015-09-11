@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="TableTennisV3.PresentationLayer.Views.VisionView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:ViewModels="clr-namespace:TableTennisV3.PresentationLayer.ViewModels"
+             mc:Ignorable="d" Height="137.308" Width="184.615">
+    <UserControl.DataContext>
+        <ViewModels:BatViewModel/>
+    </UserControl.DataContext>
+    
+    <Grid>
+        <Button Content="Connect To Vision" Height="29" VerticalAlignment="Top" Margin="0,0,4,0" Command="{Binding ConectToVisionCmd}"/>
+        <TextBlock Margin="0,34,0,0" TextWrapping="Wrap" Text="{Binding Path = VisionResult}"/>
+    </Grid>
+</UserControl>

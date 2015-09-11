@@ -1,0 +1,53 @@
+﻿Build started 2015/9/10 22:31:01.
+     1>Project "G:\桌面\Simlator\记录视觉结果V3\ppq_sym.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>g:\桌面\simlator\记录视觉结果v3\globlesrouce.h(151): warning C4091: 'static ' : ignored on left of 'cBallModel' when no variable is declared
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\core\matrixbase.h(202): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\core\dot.h(100): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\core\dot.h(118): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\core\dot.h(130): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\core\dot.h(165): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\core\vectorwiseop.h(114): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\core\vectorwiseop.h(340): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\core\vectorwiseop.h(591): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\svd\bdcsvd.h(713): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\orthomethods.h(150): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\orthomethods.h(178): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\orthomethods.h(189): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\eulerangles.h(59): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\eulerangles.h(64): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\eulerangles.h(85): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\quaternion.h(120): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\quaternion.h(686): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\angleaxis.h(163): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\hyperplane.h(105): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\hyperplane.h(106): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\geometry\hyperplane.h(137): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\eigen\src\eigenvalues\complexeigensolver.h(273): warning C4003: not enough actual parameters for macro 'norm'
+     1>g:\桌面\simlator\记录视觉结果v3\main.cpp(158): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>g:\桌面\simlator\记录视觉结果v3\main.cpp(80): warning C4101: 'hitPoint' : unreferenced local variable
+     1>g:\桌面\simlator\记录视觉结果v3\main.cpp(71): warning C4101: 't_c' : unreferenced local variable
+     1>g:\桌面\simlator\记录视觉结果v3\main.cpp(88): warning C4101: 't_1' : unreferenced local variable
+     1>g:\桌面\simlator\记录视觉结果v3\main.cpp(76): warning C4101: 'ballModel' : unreferenced local variable
+     1>g:\桌面\simlator\记录视觉结果v3\main.cpp(84): warning C4101: 'ballHit' : unreferenced local variable
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\ppq_sym.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib "libgsl-0.lib" "libgslcblas-0.lib" "libnlopt-0.lib" libmygsl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\ppq_sym.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug\ppq_sym.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\ppq_sym.lib" /MACHINE:X86 /SAFESEH .\Debug\cKalmanSystem.obj
+         .\Debug\cMyMatrix.obj
+         .\Debug\cPredictFilter.obj
+         .\Debug\cRobotArm.obj
+         .\Debug\Cam3D.obj
+         .\Debug\camer.obj
+         .\Debug\GlobleSrouce.obj
+         .\Debug\main.obj
+         ppq_sym.vcxproj -> G:\桌面\Simlator\记录视觉结果V3\.\Debug\ppq_sym.exe
+       Manifest:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mt.exe /nologo /verbose /out:"G:\桌面\Simlator\记录视觉结果V3\.\Debug\ppq_sym.exe.manifest" /manifest .\Debug\ppq_sym.exe.intermediate.manifest
+       BscMake:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o".\Debug\ppq_sym.bsc" .\Debug\cKalmanSystem.sbr .\Debug\cMyMatrix.sbr .\Debug\cPredictFilter.sbr .\Debug\cRobotArm.sbr .\Debug\Cam3D.sbr .\Debug\camer.sbr .\Debug\GlobleSrouce.sbr .\Debug\main.sbr
+     1>Done Building Project "G:\桌面\Simlator\记录视觉结果V3\ppq_sym.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.50
